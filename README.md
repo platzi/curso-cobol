@@ -1,10 +1,15 @@
-# COBOL-TIPOS-DATOS
-Repo que contiene programa cobol con tipos de datos y convenciones en los nombres, tambien usamos displays para verificar el comportamiento de los datos en cobol
-## Tipos de datos y operaciones matematicas 🚀
+# COBOL-MATEMATICAS
+_Este repo contiene el código escrito en COBOL para manejo de matematica y JCL combinado con compilador mas ejecutor_
 
-_Este es el PROGRAMA generado en COBOL y el JCL que verifican los tipos de datos y la nomenclatura, pertenece a la **clase**:_ 
+## Tipos de datos y operaciones matemáticas 🚀
 
-* **Tipos de datos y convenciones** - *Trabajo Inicial*
+_Programa COBOL para manejo de operaciones aritmeticas, pertenece a la **clase**:_ 
 
+* **Operaciones matemáticas** 
+   * Componentes
+      *  JCLARITM.txt    (JCL compilación y ejecución programa ARITME)
+      *  ARITME.txt      (programa COBOL para manejo de matematica)
+      *  PROC_COMPI.txt (Procedimiento que se va a catalogar en SYS2.PROCLIB y que contiene llamados al programa cobol que compila y que realiza linkediter)
+      
 
 Made with ❤❤ by [carsantello](https://github.com/carsantello)

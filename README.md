@@ -1,15 +1,17 @@
-# COBOL-MATEMATICAS
-_Este repo contiene el código escrito en COBOL para manejo de matematica y JCL combinado con compilador mas ejecutor_
+# COBOL- IF ELSE
 
-## Tipos de datos y operaciones matemáticas 🚀
+_Este repo contiene el JCL de compilación y de ejecución al programa IFELSE y el programa COBOL IFELSE para el manejo de la estructura de control_
 
-_Programa COBOL para manejo de operaciones aritmeticas, pertenece a la **clase**:_ 
+## IF ELSE 🚀
 
-* **Operaciones matemáticas** 
+_Este es el programa COBOL IFELSE, pertenece a la **clase**:_ 
+
+* **IF - ELSE** 
    * Componentes
-      *  JCLARITM.txt    (JCL compilación y ejecución programa ARITME)
-      *  ARITME.txt      (programa COBOL para manejo de matematica)
+      *  COMPIF.txt   (JCL que para compilar)
+      *  EXECIF.txt   (JCL que ejecuta el programa IFELSE)
+      *  IFELSE.txt   (programa que maneja la estructura IF-ELSE)
       *  PROC_COMPI.txt (Procedimiento que se va a catalogar en SYS2.PROCLIB y que contiene llamados al programa cobol que compila y que realiza linkediter)
-      
+
 
 Made with ❤❤ by [carsantello](https://github.com/carsantello)

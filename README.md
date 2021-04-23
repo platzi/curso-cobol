@@ -1,17 +1,16 @@
-# COBOL- IF ELSE
+# COBOL- PERFORM
 
-_Este repo contiene el JCL de compilación y de ejecución al programa IFELSE y el programa COBOL IFELSE para el manejo de la estructura de control_
+_Este repo contiene el código escrito en COBOL para manejo de sentencia de control PERFORM y JCL combinado con compilador mas ejecutor_
 
-## IF ELSE 🚀
+## ESTRUCTURAS DE CONTROL 🚀
 
-_Este es el programa COBOL IFELSE, pertenece a la **clase**:_ 
+_Programa COBOL para manejo de estructura de control PERFORM (TIMES & UNTIL), pertenece a la **clase**:_ 
 
-* **IF - ELSE** 
+* **PERFORM** 
    * Componentes
-      *  COMPIF.txt   (JCL que para compilar)
-      *  EXECIF.txt   (JCL que ejecuta el programa IFELSE)
-      *  IFELSE.txt   (programa que maneja la estructura IF-ELSE)
+      *  JCLPERF.txt    (JCL compilación y ejecución programa PERFORM)
+      *  PERFORM.txt    (programa COBOL para manejo de estructura de control PERFORM TIMES y PERFORM UNTIL)
       *  PROC_COMPI.txt (Procedimiento que se va a catalogar en SYS2.PROCLIB y que contiene llamados al programa cobol que compila y que realiza linkediter)
-
+      
 
 Made with ❤❤ by [carsantello](https://github.com/carsantello)

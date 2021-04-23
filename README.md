@@ -1,12 +1,16 @@
-# COBOL-IEFBR14
-_Este repo contiene la estructura de la UTILERIA JCL IEFBR14 _
+# COBOL- primer JCL
 
-## Job Control Language 🚀
+_Este repo contiene el primer JCL y el PROCEDURE que compilaran y ejecutaran tu código escrito en COBOL_
 
-_Este IEFBR14 es la primer utileria JCL que codificaremos, pertenece a la **clase**:_ 
+## JCL: Job Control Language 🚀
 
-* **Utilerías: IEFBR14 ** 
-  *  **IEFBR14: sentencia de jcl que contiene el llamado a utileria IEFBR14 y que eliminara archivo de trabajo** 
-  
+_Este es el PRIMER PROGRAMA generado en COBOL, pertenece a la **clase**:_ 
+
+* **Definiendo tu primer JCL** 
+   * Componentes
+      *  JCL_EXECU.txt    (JCL ejecución programa HOLA)
+      *  PROC_COMPI.txt   (PROCEDURE para compilar y linkedit al object code)
+      *  JCL_COMPILER.txt (JCL que invoca al PROCEDURE para compilar)
+
 
 Made with ❤❤ by [carsantello](https://github.com/carsantello)

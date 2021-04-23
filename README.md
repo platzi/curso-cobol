@@ -1,12 +1,12 @@
-# COBOL-PROEDURE
+# COBOL-JCL-CARD
 
-_Este repo contiene el procedure que contiene los pasos de compilacion y linkedicion para los programas escritos en COBOL; y que subiremos a la libreria SYS2.PROCLIB_
+_Este repo contiene la definicion de la tarjeta JCL_
 
-## Tus primeros pasos con COBOL 🚀
+## JCL Job Control Language 🚀
 
-_Este es el PRIMER PROGRAMA generado en COBOL, pertenece a la **clase**:_ 
+_Esta es la primera TARJETA JCL, pertenece a la **clase**:_ 
 
-* **descarga y configuracion del entorno de desarrollo** 
+* **estructura de un JCL** 
 
 
 Made with ❤❤ by [carsantello](https://github.com/carsantello)

@@ -1,0 +1,17 @@
+//HERC0002 JOB (PROG001),                                               00000101
+//             'EXECUTES HELLO',                                        00000201
+//             CLASS=A,                                                 00000300
+//             MSGCLASS=H,                                              00000400
+//             NOTIFY=HERC01,                                           00000504
+//             REGION=8M,TIME=1440,                                     00000601
+//             MSGLEVEL=(1,1)                                           00000700
+//******************************************************************    00000800
+//*                                                                     00000900
+//* THIS JOB HAS AS PURPOSE OF RUNNING THE COMPILED LOAD MODULE         00001002
+//*                                                                     00001100
+//******************************************************************    00001200
+//PROG0101 EXEC PGM=HELLO                                               00001301
+//STEPLIB  DD DSN=HERC01.PLATZI.LOAD,DISP=SHR                           00001403
+//SYSOUT   DD SYSOUT=*                                                  00001501
+/*                                                                      00001600
+//                                                                      00001700

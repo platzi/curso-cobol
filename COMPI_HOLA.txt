@@ -1,0 +1,19 @@
+//HERC0101 JOB (COBOL),                                                 00000100
+//             'COBOL COMPILATION',                                     00000200
+//             CLASS=A,                                                 00000300
+//             MSGCLASS=H,                                              00000400
+//             REGION=8M,TIME=1440,                                     00000501
+//             NOTIFY=HERC01,                                           00000601
+//             MSGLEVEL=(1,1)                                           00000700
+//******************************************************************    00000800
+//*                                                                     00000900
+//* THIS JOB HAS AS PURPOSE COMPILE THE COBOL CODE                      00001000
+//* PROCEDURE LOCATED @ SYS2.PROCLIB(COBOL)                             00001100
+//*                                                                     00001200
+//******************************************************************    00001300
+//COMPILE  EXEC COBOL,                                                  00001400
+//         PROG='HOLA',                                                 00001501
+//         PDSF='HERC01.PLATZI.SRC',                                    00001601
+//         PDSL='HERC01.PLATZI.LOAD'                                    00001701
+/*                                                                      00001800
+//                                                                      00001900
